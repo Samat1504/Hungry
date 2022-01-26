@@ -603,8 +603,9 @@ body {
     list-style: none;
     font-size: 0.75rem;
     font-weight: 600;
-    cursor: pointer;
 }
+
+
 
 .contact-li i {
     color: #e8c300;
